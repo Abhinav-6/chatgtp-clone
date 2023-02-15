@@ -1,8 +1,9 @@
-
 const page = () => {
   return (
-    <div className="text-purple-500">ChatGPT Clone</div>
-  )
-}
+    <div className="flex-1 bg-[#343541] py-28 text-center">
+      <h1 className="text-4xl text-white">ChatGPT Clone</h1>
+    </div>
+  );
+};
 
-export default page
+export default page;
